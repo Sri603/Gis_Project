@@ -8,7 +8,7 @@ This repository is dedicated to the project part of the GIS course (Group 4)
 
 1. Clipping the study area
 
-<img src="Group 4 - Study Area/Screenshot 2023-06-03 090303.png"  width="40%" height="30%">
+<img src=(https://github.com/Sri603/GIS-Project/Group 4 - Study Area/Screenshot 2023-06-03 090303.png)  width="40%" height="30%">
 
 2. Susceptibility map generation
 
